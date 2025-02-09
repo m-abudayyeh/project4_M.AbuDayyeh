@@ -62,23 +62,3 @@ You can view the wireframes and mockups created for this project using Figma:
 [Wireframe & Mockup](https://www.figma.com/design/jX3awGU7bE8rglbuGRpqkq/Tasks-Project?node-id=1-4&t=pay3uoX1RSSLvezW-1)
 
 ---
-
-## GitHub Repositories
-
-- **Individual GitHub Repository**:
-  - [Link to my GitHub repository](https://github.com/FlowBoardProject/Task-management.git)
----
-
-## Trello Board
-
-To track the progress and tasks of our team, we are using Trello. You can view the Trello board here:
-
-[Trello Board Link]([https://trello.com/](https://trello.com/b/2tyfbvnL/reactproject))
-
----
-
-## Installation & Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/FlowBoardProject/Task-management.git
